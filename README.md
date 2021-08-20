@@ -1,7 +1,7 @@
+
 <html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<!-- saved from url=(0034)http://www.czaczv2.tnb.pl/news.php -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2"><style class="vjs-styles-defaults">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2"><style class="vjs-styles-defaults">
       .video-js {
         width: 300px;
         height: 150px;
