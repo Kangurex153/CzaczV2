@@ -1,3 +1,4 @@
+<html>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!-- saved from url=(0034)http://www.czaczv2.tnb.pl/news.php -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2"><style class="vjs-styles-defaults">
@@ -425,4 +426,5 @@ pageTracker._trackPageview();
 
 
 
-</body><script type="text/javascript" id="useragent-switcher">navigator.__defineGetter__("userAgent", function() {return "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52"})</script></html>
+</body><script type="text/javascript" id="useragent-switcher">navigator.__defineGetter__("userAgent", function() {return "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52"})</script>
+</html>
