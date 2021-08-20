@@ -1,17 +1,6 @@
 
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2"><style class="vjs-styles-defaults">
-      .video-js {
-        width: 300px;
-        height: 150px;
-      }
-
-      .vjs-fluid {
-        padding-top: 56.25%
-      }
-    </style>
-<title>Strona poświęcona MOD Pack-owi Czacz v2</title>
+ <title> Strona poświęcona MOD Pack-owi Czacz v2</title>
 
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta name="description" content="Strona poświęcona MOD Pack-owi Czacz v2">
